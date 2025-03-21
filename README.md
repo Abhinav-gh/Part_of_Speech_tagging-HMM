@@ -9,8 +9,6 @@ This repository contains the implementation of a **Part-of-Speech (POS) tagging 
 4. [Model Implementation](#model-implementation)
 5. [Evaluation](#evaluation)
 6. [How to Run the Code](#how-to-run-the-code)
-7. [Contributions](#contributions)
-8. [Acknowledgments](#acknowledgments)
 
 ## Introduction
 The goal of this project is to develop a POS tagging system that accurately assigns POS tags to words in sentences using the Viterbi Algorithm. The model is trained on a dataset of sentences where each word is paired with its corresponding POS tag. The system learns transition and emission probabilities from the dataset and uses them to predict POS tags for unseen sentences.
